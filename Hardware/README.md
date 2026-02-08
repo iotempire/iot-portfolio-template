@@ -1,6 +1,6 @@
 # Hardware
 
-This is the hardware, I/we took out/
+This is the hardware, I/we took out.
 
 ## year-month-day
 
