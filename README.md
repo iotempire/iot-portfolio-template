@@ -63,3 +63,8 @@ My personal profile and expectations, you can find [here](Module01/README.md#tas
   [Reflection 2](Reflections/ref02.md), [Reflection 3](Reflections/ref03.md)
 - ...
 
+## Miscellanious
+
+- [Hardware in my/our possession][hardware.md]
+
+
