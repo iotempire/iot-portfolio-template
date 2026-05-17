@@ -13,4 +13,4 @@ This is the hardware, I/we took out.
 ## Connectivity Classification Table
 
 TODO: here will be a table showing different connection options like serial (uart/rs232), i2c, onewire, pwm, ... 
-and corresponding wiring documentation (update table when you get new interesting new parts)
+and corresponding wiring documentation (update table when you get new and/or interesting parts)
