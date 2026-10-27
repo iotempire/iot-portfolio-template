@@ -59,6 +59,6 @@
 
 ## Reflection
 
-Copy [the reflection template](Reflections/TEMPLATE.md) to `Reflections/refNN.md` and write your entry there.
+Copy [the reflection template](https://github.com/iotempire/iot-portfolio-template/blob/main/Reflections/TEMPLATE.md) to `Reflections/refNN.md` (from a module folder: `../Reflections/TEMPLATE.md`) and write your entry there.
 
 > A module can span several sessions; link each reflection that belongs to this module.

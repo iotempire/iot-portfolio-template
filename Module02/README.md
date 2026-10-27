@@ -6,7 +6,7 @@ We are going to show here notes for Task 1, 2, 3, 4, and 5 to prove
 
 ## Learning Goals
 
-> Copy the module's learning goals from the course workbook. Keep the `LG1`, `LG2`, … IDs and a one-word keyword; under each goal, link to the task that proves it.
+> **How to use the learning goals.** Copy the module's learning goals from the course workbook into the block below. Keep the `LG1`, `LG2`, … IDs and a one-word keyword. In each task, write `Proves: LG2` (or link to `[LG2](#lg2)`) so you can find the evidence quickly at checkpoint time. In the **Evidence** line under each goal, link to the task that proves it.
 
 <a id="lg1"></a>
 ### LG1 — `<keyword>`
