@@ -7,5 +7,5 @@ They will be named `ref01.md` to `refNN.md`.
 Use the [reflection template](TEMPLATE.md): copy it to a new `refNN.md`
 and answer the prompts there. The template includes the **AI-verification** question.
 
-`ref02.md` spells the prompts out as a worked example; the other reflection files
+`ref01.md` spells the prompts out as a worked example; the other reflection files
 can simply link back to the template and contain your answers.
